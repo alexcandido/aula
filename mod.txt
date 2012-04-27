@@ -9,4 +9,8 @@ Linha 8
 
 após o segundo commit
 
+<<<<<<< HEAD
 commit feito no brench master
+=======
+questao 20
+>>>>>>> b1
